@@ -1,0 +1,22 @@
+{
+  "job_description": "Looking for a Salesperson with excellent communication skills and experience in driving sales and customer relationships",
+  "resume": "Sales professional with 5 years of experience in B2B sales, managing client relationships, and consistently exceeding sales targets"
+}
+
+{
+  "job_description": "Looking for a Backend Developer with experience in building scalable APIs and working with databases",
+  "resume": "Backend Developer with 4 years of experience in building RESTful APIs, working with SQL and NoSQL databases, and optimizing server-side performance"
+}
+
+{
+        "job_description": "We are looking for a Python developer with experience in Flask, Django, and SQL. Knowledge of AWS and Docker is a plus.",
+        "resume": "Experienced software developer with 5 years of Python programming. Built web applications using Flask and Django. Familiar with PostgreSQL and MySQL. Experience with cloud deployment on AWS."
+}
+
+{
+  "job_description": "Looking for a skilled Surgeon with expertise in performing complex surgeries and providing patient care before, during, and after procedures",
+  "resume": "Experienced surgeon with 8 years of practice in performing a wide range of surgical procedures, specializing in orthopedic surgeries, with a strong focus on patient safety and recovery"
+}
+
+
+

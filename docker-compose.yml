@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  resume-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app.py:/app/app.py
+      - ./resume_reviewer.py:/app/resume_reviewer.py
+    environment:
+      - PYTHONUNBUFFERED=1

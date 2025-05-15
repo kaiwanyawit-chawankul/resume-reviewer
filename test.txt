@@ -19,4 +19,16 @@
 }
 
 
+https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs
+https://www.kaggle.com/datasets/willianoliveiragibin/salary-data-analist
+https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset
+https://www.kaggle.com/datasets/tianyimasf/linkedin-data-job-titles-and-postings
+https://www.kaggle.com/datasets/syedmharis/software-engineering-interview-questions-dataset
+https://www.kaggle.com/datasets/jithinjagadeesh/resume-dataset
+https://www.kaggle.com/datasets/tezeghdentimohamed/list-of-technicall-skills
+https://data.gov/
+https://catalog.data.gov/dataset?q=occupational+skills
+https://catalog.data.gov/dataset/standard-occupational-classification-da7d9
+https://catalog.data.gov/dataset/occupational-information-network-onet-production-database-data-87f52
 
+https://github.com/workforce-data-initiative/skills-api
